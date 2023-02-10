@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # YD-ESP32-C3-4IN4OUT 控制器说明
 
 ###### 简介：
